@@ -3,7 +3,7 @@ Description: Create the infrastructure needed to run the Our COVID Voices Admin
 
 Parameters:
   Uuid:
-    Default: c92ca114-c132-45b6-ac17-526a025cd3a4
+    Default: 81a653cb-3e35-4f46-96e0-41d19d3148c0
     Description: The unique ID for this stack.
     MaxLength: '36'
     MinLength: '36'
