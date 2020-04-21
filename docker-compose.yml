@@ -2,7 +2,7 @@ version: "3"
 
 services:
   app:
-    image: hearing-voices-network/admin/app
+    image: our-covid-voices/admin/app
     build:
       context: ./docker/app
       dockerfile: Dockerfile

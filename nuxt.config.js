@@ -8,7 +8,7 @@ export default {
    ** Environment variables
    */
   env: {
-    appName: 'Connecting Voices',
+    appName: 'Our COVID Voices',
     contactEmail: process.env.CONTACT_EMAIL || 'mailto:hello@example.com',
     baseUrl: process.env.BASE_URL || 'http://localhost:3000',
     apiBaseUrl: process.env.API_BASE_URL
@@ -17,7 +17,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'Connecting Voices',
+    title: 'Our COVID Voices',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
