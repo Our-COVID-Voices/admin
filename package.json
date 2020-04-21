@@ -1,7 +1,7 @@
 {
   "name": "admin",
   "version": "1.0.0",
-  "description": "The admin web app for the Connecting Voices platform.",
+  "description": "The admin web app for the Our COVID Voices platform.",
   "author": "Ayup Digital",
   "private": true,
   "scripts": {

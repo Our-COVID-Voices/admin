@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Create the infrastructure needed to run the Connecting Voices Admin
+Description: Create the infrastructure needed to run the Our COVID Voices Admin
 
 Parameters:
   Uuid:
