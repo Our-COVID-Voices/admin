@@ -32,7 +32,7 @@
 
             <gov-summary-list-row>
               <gov-summary-list-key>
-                Country
+                Can contact?
               </gov-summary-list-key>
 
               <gov-summary-list-value>
@@ -52,7 +52,7 @@
 
             <gov-summary-list-row>
               <gov-summary-list-key>
-                Gender
+                Username
               </gov-summary-list-key>
 
               <gov-summary-list-value>
