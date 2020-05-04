@@ -8,10 +8,8 @@
           <gov-heading-l>Settings</gov-heading-l>
 
           <gov-body>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-            voluptate. Quae eius, fuga excepturi enim quam veritatis quidem
-            nesciunt omnis aliquam dicta provident laboriosam alias suscipit?
-            Soluta ducimus incidunt delectus?
+            MODERATORS: please do not alter any of the setting below without
+            being authorised to do so by National Voices.
           </gov-body>
         </gov-grid-column-two-thirds>
       </gov-grid-row>
