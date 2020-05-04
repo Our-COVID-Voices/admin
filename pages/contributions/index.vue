@@ -8,10 +8,12 @@
           <gov-heading-l>Contributions</gov-heading-l>
 
           <gov-body>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-            voluptate. Quae eius, fuga excepturi enim quam veritatis quidem
-            nesciunt omnis aliquam dicta provident laboriosam alias suscipit?
-            Soluta ducimus incidunt delectus?
+            MODERATORS: you can approve submissions here and suggest to the
+            authors changes they will need to make so that we can publish their
+            experiences. Please moderate from oldest submission first. Please be
+            diplomatic and clear in suggestions for edits and only suggest edits
+            where someone contravenes our writing guidelines, not for form and
+            style.
           </gov-body>
         </gov-grid-column-two-thirds>
       </gov-grid-row>
